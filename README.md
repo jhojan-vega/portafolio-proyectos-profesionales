@@ -21,6 +21,7 @@ ngAqua fue uno de los proyectos en los que participé durante mi etapa de formac
 Es una aplicación orientada a la gestión y facturación de acueductos veredales, desarrollada pensando en necesidades reales de comunidades rurales y pequeños municipios de Colombia.
 
 Mi participación estuvo principalmente enfocada en el **frontend y en la construcción de páginas e interfaces**, trabajando como parte del equipo de desarrollo.
+🔗 **Repositorio:** [Ver proyecto ngAqua](https://github.com/jhojan-vega/ngAqua)
 
 Durante el proyecto tuve contacto con una aplicación construida en Angular y con componentes como servicios, autenticación y tableros para visualizar información.
 
@@ -40,6 +41,7 @@ Angular · TypeScript · HTML · CSS · ngx-charts · Karma · Protractor
 En 2025 continué fortaleciendo mi experiencia en desarrollo web participando en Seminario, una aplicación orientada a apoyar la gestión académica del Seminario de Garzón, Huila.
 
 Mi trabajo se concentró principalmente en el **desarrollo frontend y la elaboración de páginas e interfaces**, nuevamente como parte de un equipo de desarrollo.
+🔗 **Repositorio:** [Ver proyecto ngSeminario](https://github.com/jhojan-vega/ngSeminario)
 
 Este proyecto me permitió seguir trabajando con Angular y fortalecer la organización de componentes, vistas y funcionalidades dentro de una aplicación de mayor alcance.
 
@@ -59,6 +61,7 @@ En 2026 participé en Oikos, un proyecto de mayor complejidad orientado a la adm
 Oikos está concebido como una plataforma **SaaS multi-tenant**, por lo que me permitió conocer una arquitectura más amplia, donde el frontend forma parte de una solución que también integra backend, base de datos, autenticación y diferentes servicios.
 
 Mi participación se ha concentrado principalmente en el **frontend, la elaboración de páginas y el trabajo sobre interfaces**, dentro del equipo encargado del proyecto.
+🔗 **Repositorio:** [Ver proyecto Oikos](https://github.com/jhojan-vega/oikos)
 
 **Tecnologías del proyecto:**  
 Angular · TypeScript · HTML · SCSS · PrimeNG · Symfony · PHP · MySQL · JWT
@@ -78,6 +81,7 @@ La plataforma permite centralizar información relacionada con proyectos, campa�
 En este proyecto mi participación estuvo especialmente relacionada con el **diseño e implementación de la base de datos, integración de APIs externas, procesamiento de información y generación de métricas e indicadores (KPIs)**.
 
 El proyecto también me permitió participar en un entorno donde se integraron desarrollo web, análisis de datos, infraestructura y despliegue de una solución empresarial.
+🌐 **Plataforma desplegada:** [Ver Growth Digital Client Hub](https://portal.growthdigital.marketing/)
 
 **Tecnologías del proyecto:**  
 HTML · CSS · JavaScript · Node.js · SQLite · APIs REST · Docker · Linux · VPS · Git/GitHub · Figma
