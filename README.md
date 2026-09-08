@@ -8,7 +8,7 @@ Durante mi formación en Ingeniería de Sistemas he tenido la oportunidad de par
 
 Mi experiencia ha sido progresiva. Comencé trabajando principalmente en desarrollo web, construcción de páginas e interfaces y, a medida que avancé en mi formación, fui participando en proyectos relacionados con bases de datos, análisis de información, Business Intelligence, APIs y soluciones empresariales.
 
-Aquí presento cuatro de los proyectos que mejor representan ese recorrido entre 2024 y 2026.
+Aquí presento cinco de los proyectos que mejor representan ese recorrido entre 2024 y 2026.
 
 ---
 
@@ -87,6 +87,27 @@ El proyecto también me permitió participar en un entorno donde se integraron d
 HTML · CSS · JavaScript · Node.js · SQLite · APIs REST · Docker · Linux · VPS · Git/GitHub · Figma
 
 **Estado:** plataforma desplegada en infraestructura web.
+
+---
+
+## 🎵 2026 | Jhojan Vega Música
+
+**Plataforma web y catálogo musical**
+
+Jhojan Vega Música es un proyecto web propio desarrollado para centralizar y presentar contenido musical mediante una plataforma accesible desde Internet.
+
+El proyecto integra canciones, videos, reels, historias y enlaces a redes sociales dentro de una experiencia web diseñada para facilitar el acceso al contenido desde diferentes dispositivos.
+
+Este proyecto me permitió aplicar de manera directa conocimientos de **desarrollo web, diseño de interfaces, organización de contenido multimedia, Git/GitHub, Docker y despliegue web**, llevando una solución propia desde el desarrollo hasta su publicación en Internet.
+
+🔗 **Repositorio:** [Ver proyecto Jhojan Vega Música](https://github.com/jhojan-vega/jhojan-vega-musica)
+
+🌐 **Sitio web:** [Visitar Jhojan Vega Música](https://jhojanvega.com/)
+
+**Tecnologías del proyecto:**  
+React · TypeScript · JavaScript · HTML · CSS · Vite · Docker · Git/GitHub
+
+**Estado:** proyecto propio desplegado y disponible públicamente.
 
 ---
 
